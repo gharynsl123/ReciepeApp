@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_breakfast">
+
+    <fragment
+        android:id="@+id/navigation_breakfast"
+        android:name="com.example.recipeapp.ui.BreakfastFragment"
+        tools:layout="@layout/fragment_breakfast" />
+    <fragment
+        android:id="@+id/navigation_dessert"
+        android:name="com.example.recipeapp.ui.DessertFragment"
+        tools:layout="@layout/fragment_dessert" />
+    <fragment
+        android:id="@+id/navigation_seafood"
+        android:name="com.example.recipeapp.ui.SeafoodFragment"
+        tools:layout="@layout/fragment_seafood" />
+    <fragment
+        android:id="@+id/navigation_vegetarian"
+        android:name="com.example.recipeapp.ui.VegetarianFragment"
+        tools:layout="@layout/fragment_vegetarian" />
+</navigation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Resep</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_dessert">Makanan Penutup</string>
+    <string name="txt_seafood">Seafood</string>
+    <string name="content_image_for_banner">Gmabar Untuk Banner Resep</string>
+    <string name="txt_recipe_name_banner">Udang Bawang Mentega</string>
+    <string name="txt_1_2_k">1.2 K</string>
+    <string name="txt_cooked">Dimasak</string>
+    <string name="content_image_for_recipes">Gambar Untuk Resep</string>
+    <string name="txt_detail_recipe">Detail Resep</string>
+    <string name="content_image_for_detail_recipe">Gambar Untuk Detail Resep</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Karbohidrat</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_resep">Resep</string>
+    <string name="txt_bahan_bahan">Bahan-bahan:</string>
+    <string name="txt_instruksi_pembuatan">Instruksi Pembuatan:</string>
+</resources>
